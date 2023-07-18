@@ -11,6 +11,4 @@ void print_alphabet(void)
 	
 
 #endif	
-	
-_putchar('\n');	
-
+;
