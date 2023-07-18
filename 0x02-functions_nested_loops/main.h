@@ -6,7 +6,7 @@
 
 int _putchar(char c);				
 	
-void 3-islower(void);
+void 3-islower.c(void);
 	
 	
 
